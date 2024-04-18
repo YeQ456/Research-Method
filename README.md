@@ -9,7 +9,7 @@ PDF file: CW2.pdf
 
 Code file: CW2.R
 
-Demo file: AgeGroup.html, Rplot.html
+Demo file: AgeGroup.html, Factors.html, Factors.pdf, AgeGroup.pdf
 
 Video: https://youtu.be/t_6BWZTETj8
 
