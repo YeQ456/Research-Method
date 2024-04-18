@@ -3,7 +3,9 @@ Research Method (only)
 
 ---
 
-IDE: R studio (language: R)
+IDE: R studio 
+
+Language: R
 
 PDF file: CW2.pdf
 
